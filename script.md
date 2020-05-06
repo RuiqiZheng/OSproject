@@ -92,9 +92,19 @@ GPU without waiting for intermediate results.
 
 here I also remcommand jupyter notebook, a web application that allows you to create and share documents and codes for many languages, not only Python
 
+## pros and cons 
 
+I read some of the blogs and forums, combined with my own personal using experience. I do want discuss with all of you about the several machine learning frameworks appeared in these years
 
 Insead of introdcing the verey specific technique details, I want to give you a general picture of tensorflow. what is tensorflow, why we need tensorflow, the application of tensorflow and my personal opinion about it. If you have any questions, please feel free to ask. We can also discuss the  technique details if you are interested. 
+
+
+
+
+
+![v2-9a8d9b12bc06587f8d1ae1f5f182d8ac_r](/Users/zhengruiqi/Documents/junior/2020spring/操作系统/project/v2-9a8d9b12bc06587f8d1ae1f5f182d8ac_r.jpg)
+
+
 
 提一些建议哦 听了两天的presentation  大家都主要侧重于技术和实验结果，这样的presentation不是那么的完整  
 建议大家增加一些背景、motivation的介绍，以及更加生动的应用场景 ，毕竟听你们Presentation的同学可能并不特别了解你看的这篇主要在做什么，所以要说清楚为什么做这个东西 做这个东西能干吗  不能只是讲怎么做
